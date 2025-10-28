@@ -3,7 +3,7 @@ public class Semaforo {
 
 
     public String accionSemaforoIf(String color) {
-        if (color.equals("Rojo")) {
+        if (color.equals("Rojo")) { // Equals. Verifica si dos objetos son iguales
             return "Parar";
         } else if (color.equals("Verde")) {
             return "Pasar";
