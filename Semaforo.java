@@ -42,4 +42,3 @@ public class Semaforo {
         sc.close();
     }
 } 
-

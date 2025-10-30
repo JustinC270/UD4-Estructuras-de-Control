@@ -1,4 +1,4 @@
-    import java.util.Scanner;
+import java.util.Scanner;
 
     public class DiaDeLaSemana {
         public static String obtenerDia (int numero) {
@@ -23,5 +23,4 @@
             
             
     }
-
-  
+//! le cambia el valor a un boolean (false ->true y viceversa)
